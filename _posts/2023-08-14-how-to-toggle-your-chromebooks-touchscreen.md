@@ -5,8 +5,6 @@ categories: [ChromeOS, Laptops]
 tags: [chromebook, chromeos, touchscreen]     # TAG names should always be lowercase
 ---
 
-# How to toggle your chromebook's touchscreen
-
 Here is a short and simple way to turn your chromebooks touchscreen off if you need to trace something on your screen. You will only need to complete this setup once, unless you are assigned a new chromebook.
 
 If you have already finished the setup, the keys to press are:
