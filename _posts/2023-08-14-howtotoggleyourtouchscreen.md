@@ -47,6 +47,6 @@ Search + Shift + T
 ```
 to disable and reenable your touchscreen. After completing these steps, you do not need to complete them again turn your touch screen off.
 
-![A photo of the search key on a chromebook laptop keyboard.](/images/how-to-toggle-your-chromebooks-touchscreen/search-key.jpg)
+![A photo of the search key on a chromebook laptop keyboard.](https://images.quicklinks.li/how-to-toggle-your-chromebooks-touchscreen/images/how-to-toggle-your-chromebooks-touchscreen/search-key.jpg)
 
 [Search key image link](https://bit.ly/3SoAhjU)
