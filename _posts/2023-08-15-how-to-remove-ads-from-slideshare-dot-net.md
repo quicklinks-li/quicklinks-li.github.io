@@ -13,7 +13,7 @@ chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/options.html
 Click on advanced and scroll to the bottom.
 
 ## Step 3
-Copy this in to the box:
+Copy this into the "My filter list" box:
 ```
 slideshare.net###google_ads_iframe_\/15184186\,22797863291\/slideshare_pushdown_0
 slideshare.net##iframe[src="https://89a79d28fed867280a3ca0b7da948f5c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?upapi=true"]
