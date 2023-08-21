@@ -1,7 +1,7 @@
 ---
 title: How to toggle your chromebooks touchscreen
 date: 2023-08-14 12:16:00 -0500
-categories: [ChromeOS, Laptops]
+categories: [ChromeOS]
 tags: [chromebook, chromeos, touchscreen]     # TAG names should always be lowercase
 ---
 
