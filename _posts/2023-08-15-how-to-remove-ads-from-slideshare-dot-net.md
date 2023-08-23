@@ -25,4 +25,5 @@ slideshare.net##.up-show
 slideshare.net##.ImageInterstitialAd_container__QkHIG
 slideshare.net##.InterstitialAd_root__1_iHN.InterstitialAd_active__bJxM8
 slideshare.net##.AlongslidePlayerAd_root__foVJh
+slideshare.net##.Modal_overlay__r_3vn
 ```
