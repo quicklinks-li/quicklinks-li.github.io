@@ -22,6 +22,7 @@ slideshare.net###slideshare_pushdown-pushdown-cls
 slideshare.net##.fs-pushdown-sticky
 slideshare.net###alongslide-player-ad
 slideshare.net##.up-show
+slideshare.net##.InterstitialAd_root__1_iHN
 slideshare.net##.ImageInterstitialAd_container__QkHIG
 slideshare.net##.InterstitialAd_root__1_iHN.InterstitialAd_active__bJxM8
 slideshare.net##.AlongslidePlayerAd_root__foVJh
